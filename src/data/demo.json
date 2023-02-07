@@ -1,0 +1,58 @@
+{
+  'html_attributions': [],
+  'results': [
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Odabaşı, No:, Uğur Mumcu Cd. No:66, 31001 Antakya/Hatay, Türkiye',
+      'geometry': {
+        'location': {
+          'lat': 36.23186099999999,
+          'lng': 36.16499640000001
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 36.23323377989272,
+            'lng': 36.16624272989272
+          },
+          'southwest': {
+            'lat': 36.23053412010728,
+            'lng': 36.16354307010728
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png',
+      'icon_background_color': '#F88181',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet',
+      'name': 'Eskiocak Eczanesi',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 1200,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/114209562518534770050">Eskiocak Eczanesi</a>'
+          ],
+          'photo_reference': 'AfLeUgOQZdN44x8PhCiAEXaHECT4fvWU4hlTjbb8fj70SKxnhmJSOy6-yACH06u7m50fCT-izYJPP4Eq1apQElQEOEMZdv4CDdEBursB0A0VDmtg1Cc_G0k_yGWQ7D9VQn0ls2viKqlyfIzzH93bNTD3_4XwDR3CAm4gXl5NcpOAvdJ-7IDA',
+          'width': 1600
+        }
+      ],
+      'place_id': 'ChIJK2y7jQ_CJRURCL0UIztI9cQ',
+      'plus_code': {
+        'compound_code': '65J7+PX Antakya, Hatay',
+        'global_code': '8G8R65J7+PX'
+      },
+      'rating': 5,
+      'reference': 'ChIJK2y7jQ_CJRURCL0UIztI9cQ',
+      'types': [
+        'pharmacy',
+        'store',
+        'health',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 17
+    }
+  ],
+  'status': 'OK'
+}
